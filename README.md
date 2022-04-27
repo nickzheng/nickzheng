@@ -1,14 +1,14 @@
-Nick (Yiming) Zheng
+👨 Nick (Yiming) Zheng 
 
-Tech Leader / Full Stack JavaScript Developer and DevOps
+🔥 Tech Leader / Full Stack JavaScript Developer and DevOps
 
-nickzhengyiming@gmail.com
+📧 nickzhengyiming@gmail.com
 
-+86 189 189 60666
+📱 +86 189 189 60666
 
 
 
-## Education
+## 🏫 Education
 
 2012.1 – 2013.6 ***Master of Computing and IT***, Northumbria University, UK
 
