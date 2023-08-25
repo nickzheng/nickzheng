@@ -23,5 +23,7 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 2. NodeJS NestJS
 3. TDD
 4. E2E Cypress
-5. K8S
-6. Azure
+5. AWS
+6. Amazon ECS Fargate
+7. K8S
+8. Azure
