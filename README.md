@@ -21,10 +21,8 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 ## 🖥️ Tech Stack
 1. React
 2. NodeJS NestJS
-3. TDD
-4. E2E Cypress
-5. AWS
-6. Amazon ECS Fargate
-7. AliCloud
-9. Azure
-10. K8s
+4. E2E
+5. AWS/Alicloud/Azure
+6. K8s/ECS Fargate/ Lambda
+7. CI/CD github Action Gitlab pipline
+8. terraform
