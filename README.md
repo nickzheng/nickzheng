@@ -21,18 +21,26 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 ## 🖥️ Tech Stack
 
 ### Fontend
+1. React
 
-1. React
-2. Backend
-3. Cloud
-4. CI/CD
-1. React
+### Backend
 2. NodeJS NestJS
-4. E2E
+
+### Cloud
+
 5. AWS/Alicloud/Azure
 6. K8s/ECS Fargate/ Lambda
+7. 8. terraform
+
+### CI/CD
+
 7. CI/CD github Action Gitlab pipline
-8. terraform
+
+## Testing
+4. E2E
+5. Jest
+
+
 
 ## Experience
 
