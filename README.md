@@ -21,7 +21,8 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 ## 🖥️ Tech Stack
 
 ### Fontend
-1. React
+1. Angular 1.x (2013)
+2. React(2015)
 
 ### Backend
 2. NodeJS NestJS
