@@ -21,7 +21,7 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 ## 🖥️ Tech Stack
 
 ### Fontend
-1. Angular 1.x (2013)
+1. Angular 1.x (2013) Jasmine Karma protractor(e2e)
 2. React(2015)
 
 ### Backend
