@@ -22,14 +22,18 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 
 ### Fontend
 1. Angular 1.x (2013-2004) Jasmine Karma Protractor(e2e)
-2. React(since 2015) nextjs
-3. Redux Context Hook Zustand
-4. Antd pro
+2. React(since 2015)： React Class Components (lifecycle) -> Functional Components hooks
+3. Redux Middleware Redux and Redux saga/thunk ->  Hook Context Provider -> Redux Toolkit/ DVA/ Zustand/ ahook /React Query
+5. Nextjs
+6. Antd pro React Hook Form
+7. Apollo GraphQL
+8. ESLint / Prettier / Biome
 
 ### Backend
-1. Nestjs Typeorm
-2. Postgres
-3. Redis
+1. Nestjs Express Koa
+3. Typeorm
+4. Postgres
+5. Redis
 
 ### Cloud
 
@@ -49,6 +53,7 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 1. E2E
 2. Jest
 3. Cypress
+4. React Testing Library
 
 ## Experience
 
