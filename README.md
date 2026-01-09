@@ -21,27 +21,29 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 ## 🖥️ Tech Stack
 
 ### Fontend
-1. Angular 1.x (2013) Jasmine Karma protractor(e2e)
-2. React(2015)
+1. Angular 1.x (2013-2004) Jasmine Karma Protractor(e2e)
+2. React(since 2015) Redux Context Hook Zustand
+3. Antd pro
 
 ### Backend
-2. NodeJS NestJS
+1. Nestjs Typeorm
+2. Postgres
+3. Redis
 
 ### Cloud
 
-5. AWS/Alicloud/Azure
-6. K8s/ECS Fargate/ Lambda
-7. 8. terraform
+1. AWS/Alicloud/Azure
+2. K8s/ECS Fargate/ Lambda
+3. terraform
 
 ### CI/CD
 
-7. CI/CD github Action Gitlab pipline
+1. CI/CD github Action Gitlab pipline
 
 ## Testing
-4. E2E
-5. Jest
 
-
+1. E2E
+2. Jest
 
 ## Experience
 
