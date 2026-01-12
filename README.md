@@ -41,10 +41,11 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
    
 ### Cloud
 1. AWS/AliCloud/Azure
-2. Observability：log（winston/pino）、监控指标（Prometheus 思路）、链路追踪（OpenTelemetry 思路）Sentry
-3. Github Action / Gitlab pipline / Jenkins (before 2018)
-4. Frontend deploy: S3 with CDN or Cloudflare Pages
-5. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
+2. Observability：log（winston/pino）、监控指标（Prometheus 思路）、链路追踪（OpenTelemetry 思路
+3. Sentry
+4. Github Action / Gitlab pipline / Jenkins (before 2018)
+5. Frontend deploy: S3 with CDN or Cloudflare Pages
+6. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
 
 
 
