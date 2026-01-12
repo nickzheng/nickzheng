@@ -61,7 +61,8 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 
 ### CampusGPT
 
-[Chatbox] (https://chat.campus-gpt.com/)
+[Chatbox](https://chat.campus-gpt.com/)
+
 
 
 
