@@ -98,17 +98,28 @@
 
 ### EY
 **Projects**
+
 1) **EY Blockchain China Hosting and Compliance**
 - Azure China (Azure CN)
-- CI/CD flow for China region constraints
-- Auth0 replacement: **Authing**
-- Localization with GitHub integration: **Lokalise**
+- Designed CI/CD workflow for China region constraints and compliance requirements
+- Replaced Auth0 with **Authing** for authentication and user management
+- Localization with GitHub integration via **Lokalise**
 
-2) **Express → NestJS migration**
-- Standardized authentication, validation, logging, and error handling
-- Improved maintainability and consistency across services
+2) **Express → NestJS Migration**
+- Led migration from Express to NestJS to improve architecture consistency and scalability
+- Standardized **authentication**, **validation**, **logging**, and **error handling**
+- Improved maintainability and service-level consistency across teams
 
----
+3) **Blockchain On-chain Public Service (Shared Infrastructure)**
+- Built a reusable on-chain public service layer to unify blockchain write/read operations
+- Consolidated repeated **ethers.js** integration logic across projects into a standardized SDK/service
+- Reduced duplicated implementation and improved reliability, consistency, and developer efficiency
+
+4) **React Hooks Enablement & Frontend Engineering Practices**
+- Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
+- Extracted shared logic into **custom hooks** for reusability and readability
+- Reduced scattered `useEffect` usage by introducing clearer abstractions and predictable data flow
+
 
 
 
