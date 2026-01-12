@@ -45,13 +45,18 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 3. Frontend deploy: S3 with CDN or Cloudflare Pages
 4. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
 5. Sentry/Observability: Errors + Tracing/APM + Profiling + Logs + Metrics
+6. AliCloud Real User Monitoring frontend
 
 
 ## Experience
 
-### ACEMusic
+### ACE Studio AI
 
-https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0
+design : https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0
+
+demo: https://www.figma.com/proto/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=6-5183&p=f&t=u8y1cJCquzKdjYnA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A5099
+
+work: https://web-dev.acemusic.ai/trending
 
 ### CampusGPT
 
