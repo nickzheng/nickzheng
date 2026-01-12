@@ -12,7 +12,6 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 6 years of people management (8-15 Engineers) experience, including team recruitment, job allocation and mentoring.
 
 ## 🏫 Education
-
 2012.1 – 2013.6 ***Master of Computing and IT***, Northumbria University, UK
 
 2007.9 – 2011.6 ***Bachelor of Communication Engineering***, Shanghai Dianji University, China
@@ -28,35 +27,26 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 6. Antd pro / React Hook Form
 
 ### Backend
-1. Nestjs Express Koa
+1. Express --> Koa--> Ali Eggjs--> Nestjs
+2. RESTful: Swagger/OpenAPI
 3. Typeorm
-4. Postgres
-5. Redis
+4. Postgres/ Redis
 
 ## Tools/ testing
 1. ESLint / Prettier -->  Biome
 2. Husky + lint-staged (Git pre-commit/pre-push hooks)
 3. Jasmine/ Karma/ Protractor / Grunt / Gulp/ Requirejs (2013-2014)
-4. Cypress Jest 
+4. Frontend test: React Testing Library/Jest/Cypress
+5. Backend Testing: Supertest @nestjs/testing
+   
 ### Cloud
+1. AWS/AliCloud/Azure
+2. Observability：log（winston/pino）、监控指标（Prometheus 思路）、链路追踪（OpenTelemetry 思路）Sentry
+3. Github Action / Gitlab pipline / Jenkins (before 2018)
+4. Frontend deploy: S3 with CDN or Cloudflare Pages
+5. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
 
-1. AWS/Alicloud/Azure
-2. K8s/ECS Fargate/Lambda
-3. S3
-4. CDN
-5. Cloudflare
-6. terraform
 
-### CI/CD
-
-1. CI/CD github Action Gitlab pipline
-
-## Testing
-
-1. E2E
-2. Jest
-3. Cypress
-4. React Testing Library
 
 ## Experience
 
