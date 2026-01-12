@@ -82,7 +82,6 @@
 
 ### Yara
 **Scope**
-- WeChat Mini Program & UI standardization
 
 **Tech**
 - Taro (React) for Mini Program  
