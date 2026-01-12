@@ -75,27 +75,23 @@ Cloudflare AI Gateway
 
 ### Yara
 
-*WeChat Mini-Program & UI Standardization*: Taro (React)
+**WeChat Mini-Program & UI Standardization**: Taro (React)
 
-*Alibaba Cloud ACK Kubernetes*
+**Alibaba Cloud ACK Kubernetes**
 
-*GitLab review apps*
+**GitLab review apps**
 
-*Nestjs*
+**Nestjs**
 
 ### EY
 
-*EY Blockchain China Hosting and Compliance*
-
+**EY Blockchain China Hosting and Compliance**
 1. Azure CN
 2. CI/CD flow for China
 3. Auth0 replacement: [Authing](https://www.authing.cn/)
 4. Localization With GitHub Integration: lokalise
 
-
-
-
-*Led Express → NestJS migration*
+**Led Express → NestJS migration**
 Standardized auth, validation, logging, and error handling.
 
 
