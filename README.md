@@ -52,16 +52,16 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 
 ### ACE Studio AI
 
-Design: [ACEMusic (Figma)](https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0)
+[ACEMusic (Figma)](https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0)
 
-Demo: [ACEMusic Prototype](https://www.figma.com/proto/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=6-5183&p=f&t=u8y1cJCquzKdjYnA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A5099)
+[ACEMusic Prototype](https://www.figma.com/proto/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=6-5183&p=f&t=u8y1cJCquzKdjYnA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A5099)
 
-Current Status: [web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trending)
+[web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trending)
 
 
 ### CampusGPT
 
-Chatbox: [] (https://chat.campus-gpt.com/)
+[Chatbox] (https://chat.campus-gpt.com/)
 
 
 
