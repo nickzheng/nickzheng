@@ -61,7 +61,9 @@ Current Status: [web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trend
 
 ### CampusGPT
 
-ai bot
+Chatbox: [] (https://chat.campus-gpt.com/)
+
+
 
 ### Yara
 
