@@ -1,106 +1,118 @@
-👨 Nick (Yiming) Zheng 
+# 👨‍💻 Nick (Yiming) Zheng  
+**Tech Leader · Full-Stack JavaScript Developer · DevOps**
 
-🚀 Tech Leader / Full Stack JavaScript Developer and DevOps
+- 📧 Email: nickzhengyiming@gmail.com  
+- 📱 Phone: +86 189 189 60666  
 
-📧 nickzhengyiming@gmail.com
-
-📱 +86 189 189 60666
+---
 
 ## 🔥 Summary
-I have 10+ years’ solid experience in development and devOps.
-I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to build HTML5 Web App and WeChat Mini Program and Apps. And keep up to date with the latest capabilities and features of both Backend and Frontend JavaScript. Follow the system reliability concept to construct CI/ CD pipelines with Git Workflow, handle orchestrations through K8S, and perform with unit testing/ e2e testing to create a smooth workflow and ensure coding quality.
-6 years of people management (8-15 Engineers) experience, including team recruitment, job allocation and mentoring.
+- 10+ years of hands-on experience in **Full-Stack JavaScript** development and **DevOps / Platform Engineering**.
+- Strong expertise in modern JavaScript stack: **React / Next.js / Node.js (NestJS)**, building **HTML5 Web Apps**, **WeChat Mini Programs**, and production services.
+- Focus on **system reliability** and delivery efficiency: **CI/CD**, Git workflow, Kubernetes orchestration, and automated quality gates.
+- Solid testing practices across frontend & backend: **unit / integration / e2e** to ensure code quality and stable releases.
+- 6 years of people management experience (**8–15 engineers**): hiring, team structuring, task allocation, mentoring, and performance coaching.
+
+---
 
 ## 🏫 Education
-2012.1 – 2013.6 ***Master of Computing and IT***, Northumbria University, UK
+- **Master of Computing and IT**, Northumbria University (UK) — *2012.01 – 2013.06*  
+- **Bachelor of Communication Engineering**, Shanghai Dianji University (China) — *2007.09 – 2011.06*
 
-2007.9 – 2011.6 ***Bachelor of Communication Engineering***, Shanghai Dianji University, China
+---
 
+## 🧰 Tech Stack
 
-## 🖥️ Tech Stack
-
-### Fontend
-1. Angular 1.x 
-2. React(since 2015)： React Class Components (lifecycle) -> Functional Components hooks
-3. Redux Middleware Redux and Redux saga/thunk ->  Hook Context Provider -> Redux Toolkit/ DVA/ Zustand/ ahook /React Query
-5. Nextjs
-6. Antd pro / React Hook Form
+### Frontend
+- **React** (since 2015): Class Components → Hooks / Functional Components  
+- State management evolution: Redux (Saga/Thunk) → Context Provider → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
+- **Next.js**
+- UI & forms: **Ant Design / Ant Design Pro / React Hook Form**
+- Legacy: **Angular 1.x**
 
 ### Backend
-1. Express --> Koa--> Ali Eggjs--> Nestjs
-2. RESTful: Swagger/OpenAPI
-3. Typeorm
-4. Postgres/ Redis
+- Frameworks: Express → Koa → Ali Egg.js → **NestJS**
+- API: **RESTful**, **Swagger / OpenAPI**
+- ORM: **TypeORM**
+- Storage: **PostgreSQL / Redis**
 
-## Tools/ testing
-1. ESLint / Prettier -->  Biome
-2. Husky + lint-staged (Git pre-commit/pre-push hooks)
-3. Jasmine/ Karma/ Protractor / Grunt / Gulp/ Requirejs (2013-2014)
-4. Frontend test: React Testing Library/Jest/Cypress
-5. Backend Testing: Supertest @nestjs/testing
-   
-### Cloud
-1. AWS/AliCloud/Azure
-2. Github Action / Gitlab pipline / Jenkins (before 2018)
-3. Frontend deploy: S3 with CDN or Cloudflare Pages
-4. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
-5. Sentry/Observability: Errors + Tracing/APM + Profiling + Logs + Metrics
-6. AliCloud Real User Monitoring frontend
+### DevOps / Cloud / Platform
+- Cloud: **AWS / Alibaba Cloud / Azure**
+- CI/CD: **GitHub Actions / GitLab Pipelines / Jenkins (pre-2018)**
+- Deploy:
+  - Frontend: **S3 + CDN**, **Cloudflare Pages**
+  - Backend: **Kubernetes (Helm)** / **ECS Fargate** / **Serverless (Lambda / Alibaba Cloud Function)**
+- Observability: **Sentry** (Errors / Tracing / APM / Profiling), Logs / Metrics
+- RUM: **Alibaba Cloud Real User Monitoring** (Frontend)
 
+### Tooling & Testing
+- Code quality: ESLint / Prettier → **Biome**
+- Git hooks: **Husky + lint-staged** (pre-commit / pre-push)
+- Frontend testing: **React Testing Library / Jest / Cypress**
+- Backend testing: **Supertest / @nestjs/testing**
+- Legacy tooling (2013–2014): Jasmine / Karma / Protractor / Grunt / Gulp / RequireJS
 
-## Experience and Projects
+---
+
+## 💼 Experience & Selected Projects
 
 ### ACE Studio AI
+**Links**
+- 🎨 Figma: [ACEMusic Design](https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0)  
+- 🧪 Prototype: [ACEMusic Prototype](https://www.figma.com/proto/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=6-5183&p=f&t=u8y1cJCquzKdjYnA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A5099)  
+- 🌐 Web: [web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trending)
 
-[ACEMusic (Figma)](https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=KQ2nu8uWtdZARKIi-0)
+**What I worked on**
+- Full-stack web delivery for product features (Frontend + Backend integration)
+- Engineering workflow and release quality improvements (CI/CD + testing + reliability practices)
 
-[ACEMusic Prototype](https://www.figma.com/proto/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=6-5183&p=f&t=u8y1cJCquzKdjYnA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A5099)
-
-[web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trending)
-
+---
 
 ### CampusGPT
+**Product**
+- 🌐 [Chatbox](https://chat.campus-gpt.com/)
 
-[Chatbox](https://chat.campus-gpt.com/)
+**Tech**
+- Frontend: React + Zustand + Tailwind + Ant Design  
+- Backend: NestJS + TypeORM  
+- Infrastructure: AWS → Alibaba Cloud, ECS (Fargate) → Alibaba Cloud Function (Serverless)  
+- Gateway: Cloudflare AI Gateway  
 
-React Zustand Tailwind Ant Design
+**What I worked on**
+- End-to-end delivery: UI, API, and deployment pipeline migration between cloud providers
+- Production readiness: CI/CD, stability, and operational improvements
 
-NestJS TypeORM
-
-AWS--> AliCloud
-
-ECS (Fargate) ---> Alcloud Lambda
-
-Cloudflare AI Gateway
+---
 
 ### Yara
+**Scope**
+- WeChat Mini Program & UI standardization
 
-**WeChat Mini-Program & UI Standardization**: Taro (React)
+**Tech**
+- Taro (React) for Mini Program  
+- Alibaba Cloud ACK (Kubernetes)  
+- GitLab Review Apps  
+- NestJS  
 
-**Alibaba Cloud ACK Kubernetes**
+**What I worked on**
+- Standardized UI component patterns and delivery workflow
+- Kubernetes-based deployment & environment automation using Review Apps
 
-**GitLab review apps**
-
-**Nestjs**
+---
 
 ### EY
+**Projects**
+1) **EY Blockchain China Hosting and Compliance**
+- Azure China (Azure CN)
+- CI/CD flow for China region constraints
+- Auth0 replacement: **Authing**
+- Localization with GitHub integration: **Lokalise**
 
-**EY Blockchain China Hosting and Compliance**
-1. Azure CN
-2. CI/CD flow for China
-3. Auth0 replacement: [Authing](https://www.authing.cn/)
-4. Localization With GitHub Integration: lokalise
+2) **Express → NestJS migration**
+- Standardized authentication, validation, logging, and error handling
+- Improved maintainability and consistency across services
 
-**Led Express → NestJS migration**
+---
 
-Standardized auth, validation, logging, and error handling.
-
-
-
-
-### Previous
-
-
-
-
-
+## 📌 Previous
+*(Add earlier roles/companies here if you want a complete timeline.)*
