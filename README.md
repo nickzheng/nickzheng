@@ -114,5 +114,6 @@
 
 ---
 
-## 📌 Previous
-*(Add earlier roles/companies here if you want a complete timeline.)*
+
+
+
