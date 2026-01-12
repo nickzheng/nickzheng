@@ -48,7 +48,7 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 6. AliCloud Real User Monitoring frontend
 
 
-## Experience
+## Experience and Projects
 
 ### ACE Studio AI
 
@@ -63,14 +63,43 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
 
 [Chatbox](https://chat.campus-gpt.com/)
 
+React Zustand Tailwind Ant Design
 
+NestJS TypeORM
 
+AWS--> AliCloud
+
+ECS (Fargate) ---> Alcloud Lambda
+
+Cloudflare AI Gateway
 
 ### Yara
 
+*WeChat Mini-Program & UI Standardization*: Taro (React)
+
+*Alibaba Cloud ACK Kubernetes*
+
+*GitLab review apps*
+
+*Nestjs*
+
 ### EY
 
-BlockChain
+*EY Blockchain China Hosting and Compliance*
+
+1. Azure CN
+2. CI/CD flow for China
+3. Auth0 replacement: [Authing](https://www.authing.cn/)
+4. Localization With GitHub Integration: lokalise
+
+
+
+
+*Led Express → NestJS migration*
+Standardized auth, validation, logging, and error handling.
+
+
+
 
 ### Previous
 
