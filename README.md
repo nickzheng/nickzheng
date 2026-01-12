@@ -113,7 +113,6 @@
 3) **Blockchain On-chain Public Service (Shared Infrastructure)**
 - Built a reusable on-chain public service layer to unify blockchain write/read operations
 - Consolidated repeated **ethers.js** integration logic across projects into a standardized SDK/service
-- Reduced duplicated implementation and improved reliability, consistency, and developer efficiency
 
 4) **React Hooks Enablement & Frontend Engineering Practices**
 - Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
