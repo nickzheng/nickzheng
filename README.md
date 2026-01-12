@@ -41,14 +41,10 @@ I used to employ JavaScript technologies such as ReactJS, NodeJS (NestJS) to bui
    
 ### Cloud
 1. AWS/AliCloud/Azure
-3. Github Action / Gitlab pipline / Jenkins (before 2018)
-4. Frontend deploy: S3 with CDN or Cloudflare Pages
-6. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
-7. Sentry/Observability: Log/ Issue/ Trace/ Metrics
-
-
-
-
+2. Github Action / Gitlab pipline / Jenkins (before 2018)
+3. Frontend deploy: S3 with CDN or Cloudflare Pages
+4. Backend deploy: K8S Helm /  AWS ECS Fargate / Lambda
+5. Sentry/Observability: Errors + Tracing/APM + Profiling + Logs + Metrics
 
 
 ## Experience
@@ -59,10 +55,13 @@ https://www.figma.com/design/OM5DXR5CTX52QZ0vpH07HD/ACEMusic?node-id=0-1&p=f&t=K
 
 ### CampusGPT
 
+ai bot
+
 ### Yara
 
 ### EY
 
+BlockChain
 
 ### Previous
 
