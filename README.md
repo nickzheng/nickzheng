@@ -63,8 +63,7 @@
 - 🌐 Web: [web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai/trending)
 
 **What I worked on**
-- Full-stack web delivery for product features (Frontend + Backend integration)
-- Engineering workflow and release quality improvements (CI/CD + testing + reliability practices)
+- UI (Frontend + Backend integration)
 
 ---
 
@@ -78,9 +77,6 @@
 - Infrastructure: AWS → Alibaba Cloud, ECS (Fargate) → Alibaba Cloud Function (Serverless)  
 - Gateway: Cloudflare AI Gateway  
 
-**What I worked on**
-- End-to-end delivery: UI, API, and deployment pipeline migration between cloud providers
-- Production readiness: CI/CD, stability, and operational improvements
 
 ---
 
