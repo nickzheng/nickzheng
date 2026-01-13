@@ -119,6 +119,33 @@
 - Reduced scattered `useEffect` usage by introducing clearer abstractions and predictable data flow
 
 
+### Early Career
+
+
+
+1. university Self-taught
+
+**Java**: JSP, Servlet, Struts2, Hibernate ORM
+**Ruby on Rails** Matsumoto-san: Controller,  Active Record ,View
+**PHP**: Yii Framework MVC
+
+3. HSBC: Adobe Flex/ActionScript → HTML5 Angular 1.x
+
+**Tooling**: RequireJS, Grunt
+**Testing**: Karma, Jasmine, E2E
+**CI/Agile**: TeamCity, Jira Agile
+
+
+
+3. Self-taught React + Frontend Tooling (2015)
+
+**React fundamentals**: JSX, component model, createClass / early ES6 classes
+**App architecture**: Flux, reflux , one directional data flow,functional programming, Side effects separation 
+**Tooling**: Webpack,Webpack loaders(Sass Less CSS Style), Babel (ES6+ → ES5) 
+
+
+
+3. 自学nodejs , 阿里巴巴写nodejs eggjs 
 
 
 
