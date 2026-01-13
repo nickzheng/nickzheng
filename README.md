@@ -126,7 +126,7 @@
 1. university Self-taught
 
 **Java**: JSP, Servlet, Struts2, Hibernate ORM
-**Ruby on Rails** Matsumoto-san: Controller,  Active Record ,View
+**Ruby on Rails** Matsumoto-san and DHH: Controller,  Active Record ,View
 **PHP**: Yii Framework MVC
 
 3. HSBC: Adobe Flex/ActionScript → HTML5 Angular 1.x
