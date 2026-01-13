@@ -138,6 +138,7 @@
 - **App architecture**: Flux, reflux, one directional data flow, functional programming, Side effects separation
 - **Tooling**: Webpack, Webpack loaders(Sass Less CSS Style), Babel (ES6+ → ES5)
 
-4) 自学nodejs , 阿里巴巴写nodejs eggjs k8s docker
+4) Self-taught Nodejs
+- Express, Koa ,Eggjs, K8s, Docker
 
 
