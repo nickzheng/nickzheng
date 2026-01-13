@@ -77,7 +77,6 @@
 - Infrastructure: AWS → Alibaba Cloud, ECS (Fargate) → Alibaba Cloud Function (Serverless)  
 - Gateway: Cloudflare AI Gateway  
 
-
 ---
 
 ### Yara
@@ -117,6 +116,8 @@
 - Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
 - Extracted shared logic into **custom hooks** for reusability and readability
 - Reduced scattered `useEffect` usage by introducing clearer abstractions and predictable data flow
+
+---
 
 
 ### Early Career
