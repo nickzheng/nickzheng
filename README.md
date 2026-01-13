@@ -25,25 +25,25 @@
 
 ### Frontend
 - **React** (since 2015): Class Components → Hooks / Functional Components  
-- **State management**: Redux (Saga/Thunk) → Context Provider → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
+- **State management**: Redux (Saga/Thunk) → Context Provider + custome hooks → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
 - **Next.js**
 - **UI & forms:** **Ant Design / Ant Design Pro / React Hook Form**
 - Legacy: **Angular 1.x**
 
 ### Backend
-- Frameworks: Express → Koa → Ali Egg.js → **NestJS**
-- API: **RESTful**, **Swagger / OpenAPI**
-- ORM: **TypeORM**
-- Storage: **PostgreSQL / Redis**
+- **Frameworks**: Express → Koa → Ali Egg.js → **NestJS**
+- **API**: **RESTful**, **Swagger / OpenAPI**
+- **ORM**: **TypeORM** , drizzle(learn)
+- **Storage**: PostgreSQL Redis
 
 ### DevOps / Cloud / Platform
-- Cloud: **AWS / Alibaba Cloud / Azure**
-- CI/CD: **GitHub Actions / GitLab Pipelines / Jenkins (pre-2018)**
-- Deploy:
-  - Frontend: **S3 + CDN**, **Cloudflare Pages**
-  - Backend: **Kubernetes (Helm)** / **ECS Fargate** / **Serverless (Lambda / Alibaba Cloud Function)**
-- Observability: **Sentry** (Errors / Tracing / APM / Profiling), Logs / Metrics
-- RUM: **Alibaba Cloud Real User Monitoring** (Frontend)
+- **Cloud**: AWS / Alibaba Cloud / Azure
+- **CI/CD**: GitHub Actions / GitLab Pipelines / Jenkins (pre-2018)
+- **Deploy**:
+  - Frontend: S3 + CDN**, **Cloudflare Pages
+  - Backend: Kubernetes (Helm) / ECS Fargate / Serverless (Lambda / Alibaba Cloud Function)
+- **Observability**: Sentry (Errors / Tracing / APM / Profiling), Logs / Metrics
+- **RUM**: Alibaba Cloud Real User Monitoring (Frontend)
 
 ### Tooling & Testing
 - Code quality: ESLint / Prettier → **Biome**
