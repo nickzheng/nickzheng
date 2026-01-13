@@ -91,9 +91,7 @@
 
 ---
 
-### EY
-**Projects**
-
+### EY (Ernst & Young)
 
 1) **React Hooks Enablement & Frontend Engineering Practices**
 - Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
