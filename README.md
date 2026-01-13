@@ -68,7 +68,6 @@
 
 🌐 [Chatbox](https://chat.campus-gpt.com/)
 
-**Tech**
 - Frontend: React + Zustand + Tailwind + Ant Design  
 - Backend: NestJS + TypeORM  
 - Infrastructure: AWS → Alibaba Cloud, ECS (Fargate) → Alibaba Cloud Function (Serverless)  
@@ -77,7 +76,6 @@
 ---
 
 ### Yara
-**Scope**
 
 **Tech**
 - Taro (React) for Mini Program  
