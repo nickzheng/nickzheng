@@ -123,25 +123,20 @@
 
 1) university Self-taught
 
-**Ruby on Rails** Matsumoto-san and DHH: Controller, Active Record, View
-
-**PHP**: Yii Framework MVC
+- **Ruby on Rails** Matsumoto-san and DHH: Controller, Active Record, View
+- **PHP**: Yii Framework MVC
 
 2) HSBC: Adobe Flex/ActionScript → HTML5 Angular 1.x
 
-**Tooling**: RequireJS, Grunt
-
-**Testing**: Karma, Jasmine, E2E
-
-**CI/Agile**: TeamCity, Jira Agile
+- **Tooling**: RequireJS, Grunt
+- **Testing**: Karma, Jasmine, E2E
+- **CI/Agile**: TeamCity, Jira Agile
 
 3) Self-taught React + Frontend Tooling (2015)
 
-**React fundamentals**: JSX, component model, createClass / early ES6 classes
-
-**App architecture**: Flux, reflux, one directional data flow, functional programming, Side effects separation
-
-**Tooling**: Webpack, Webpack loaders(Sass Less CSS Style), Babel (ES6+ → ES5)
+- **React fundamentals**: JSX, component model, createClass / early ES6 classes
+- **App architecture**: Flux, reflux, one directional data flow, functional programming, Side effects separation
+- **Tooling**: Webpack, Webpack loaders(Sass Less CSS Style), Babel (ES6+ → ES5)
 
 4) 自学nodejs , 阿里巴巴写nodejs eggjs k8s docker
 
