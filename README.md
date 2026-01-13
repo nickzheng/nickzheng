@@ -25,9 +25,9 @@
 
 ### Frontend
 - **React** (since 2015): Class Components → Hooks / Functional Components  
-- State management evolution: Redux (Saga/Thunk) → Context Provider → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
+- **State management**: Redux (Saga/Thunk) → Context Provider → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
 - **Next.js**
-- UI & forms: **Ant Design / Ant Design Pro / React Hook Form**
+- **UI & forms:** **Ant Design / Ant Design Pro / React Hook Form**
 - Legacy: **Angular 1.x**
 
 ### Backend
