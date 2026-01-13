@@ -1,4 +1,4 @@
-# 👨‍💻 Nick (Yiming) Zheng
+# 👨‍💻 Nick (Yiming) Zheng ジェン・イーミン
 **Tech Leader · Full-Stack JavaScript Developer · DevOps**
 
 - 📧 **Email:** nickzhengyiming@gmail.com  
