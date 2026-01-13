@@ -33,7 +33,7 @@
 ### Backend
 - **Frameworks**: Express → Koa → Ali Egg.js → **NestJS** (AOP and DI)
 - **API**: **RESTful**, **Swagger / OpenAPI**
-- **ORM**: **TypeORM** , drizzle(learn)
+- **ORM**: **TypeORM** , drizzle(learning)
 - **Storage**: PostgreSQL Redis
 
 ### DevOps / Cloud / Platform
