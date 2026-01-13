@@ -41,7 +41,7 @@
 - **CI/CD**: GitHub Actions / GitLab Pipelines / Jenkins (pre-2018)
 - **Deploy**:
   - Frontend: S3 + CDN**, **Cloudflare Pages
-  - Backend: Kubernetes (Helm) / ECS Fargate / Serverless (Lambda / Alibaba Cloud Function)
+  - Backend: **Kubernetes (Helm)** / ECS Fargate / **Serverless** (Lambda / Alibaba Cloud Function)
 - **Observability**: Sentry (Errors / Tracing / APM /Logs / Metrics)
 - **RUM**: Alibaba Cloud Real User Monitoring (Frontend)
 
