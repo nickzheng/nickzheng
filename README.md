@@ -46,11 +46,11 @@
 - **RUM**: Alibaba Cloud Real User Monitoring (Frontend)
 
 ### Tooling & Testing
-- Code quality: ESLint / Prettier → **Biome**
-- Git hooks: **Husky + lint-staged** (pre-commit / pre-push)
-- Frontend testing: **React Testing Library / Jest / Cypress**
-- Backend testing: **Supertest / @nestjs/testing**
-- Legacy tooling (2013–2014): Jasmine / Karma / Protractor / Grunt / Gulp / RequireJS
+- **Code quality**: ESLint / Prettier → **Biome**
+- **Git hooks**: Husky + lint-staged (pre-commit / pre-push)
+- **Frontend testing**: React Testing Library / Jest / Cypress
+- **Backend testing**: Supertest / @nestjs/testing
+- Legacy tooling (2013–2015): Jasmine / Karma / Protractor / Grunt / Gulp / RequireJS
 
 ---
 
