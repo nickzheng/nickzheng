@@ -42,7 +42,7 @@
 - **Deploy**:
   - Frontend: S3 + CDN**, **Cloudflare Pages
   - Backend: Kubernetes (Helm) / ECS Fargate / Serverless (Lambda / Alibaba Cloud Function)
-- **Observability**: Sentry (Errors / Tracing / APM / Profiling), Logs / Metrics
+- **Observability**: Sentry (Errors / Tracing / APM /Logs / Metrics)
 - **RUM**: Alibaba Cloud Real User Monitoring (Frontend)
 
 ### Tooling & Testing
