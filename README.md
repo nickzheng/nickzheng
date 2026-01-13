@@ -50,7 +50,7 @@
 - **Git hooks**: Husky + lint-staged (pre-commit / pre-push)
 - **Frontend testing**: React Testing Library / Jest / Cypress
 - **Backend testing**: Supertest / @nestjs/testing
-- Legacy tooling (2013–2015): Jasmine / Karma / Protractor / Grunt / Gulp / RequireJS
+- Legacy (2013–2015): Jasmine / Karma / Protractor / Grunt / Gulp / RequireJS
 
 ---
 
