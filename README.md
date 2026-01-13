@@ -31,7 +31,7 @@
 - Legacy: **Angular 1.x**
 
 ### Backend
-- **Frameworks**: Express → Koa → Ali Egg.js → **NestJS**
+- **Frameworks**: Express → Koa → Ali Egg.js → **NestJS** (AOP and DI)
 - **API**: **RESTful**, **Swagger / OpenAPI**
 - **ORM**: **TypeORM** , drizzle(learn)
 - **Storage**: PostgreSQL Redis
