@@ -8,7 +8,7 @@
 
 ## 🔥 Summary
 
-- 10+ years of hands-on experience in **Full-Stack JavaScript** development and **DevOps / Platform Engineering**.
+- 12+ years of hands-on experience in **Full-Stack JavaScript** development and **DevOps / Platform Engineering**.
 - Strong expertise in modern JavaScript stack: **React / Next.js / Node.js (NestJS)**, building **HTML5 Web Apps**, **WeChat Mini Programs**, and production services.
 - Focus on **system reliability** and delivery efficiency: **CI/CD**, Git workflow, Kubernetes orchestration, and automated quality gates.
 - Solid testing practices across frontend & backend: **unit / integration / e2e** to ensure code quality and stable releases.
