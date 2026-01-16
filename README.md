@@ -87,23 +87,18 @@
 1. **Electron (Touchscreen UI) + Web Dashboard**
    - Displays controls and status (Start/Stop, battery, progress)
    - Sends user commands
-
-2. **Node.js (Control Service)**
+2. **API Server**
    - Receives commands from Electron
+   - send and receive message to Control Service
+  
+3. **Node.js (Control Service)**
    - Maps a destination (e.g., "Table 12") to a target point (x, y, yaw) **rclnodejs**
    - Sends the target to the robot system
    - Pushes robot status back to Electron
 
-3. **ROS2 (Robot System)**
+4. **ROS2 (Robot System)**
    - Navigation + obstacle avoidance
    - Motor/sensor drivers
-
-
-- **Electron ↔ Node.js:** WebSocket (JSON)
-- **Node.js ↔ ROS2:** send target + receive status
-
-#### One-line summary
-**Electron is the UI, Node.js is the bridge, ROS2 drives the robot.**
 
 ---
 
