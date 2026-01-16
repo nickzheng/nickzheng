@@ -83,6 +83,7 @@
 
 ### Simple Delivery Robot Architecture (Electron + Node.js) (2021)
 
+🤖
 1. **Electron (Touchscreen UI)**
    - Displays controls and status (Start/Stop, battery, progress)
    - Sends user commands
