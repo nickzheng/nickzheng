@@ -84,7 +84,7 @@
 ### MVP Delivery Robot (Electron + Node.js) (2021)
 
 🤖
-1. **Electron (Touchscreen UI) + Web Dashboard **
+1. **Electron (Touchscreen UI) + Web Dashboard**
    - Displays controls and status (Start/Stop, battery, progress)
    - Sends user commands
 
