@@ -81,6 +81,37 @@
 
 ---
 
+### Simple Delivery Robot Architecture (Electron + Node.js) (2021)
+
+#### Components
+1. **Electron (Touchscreen UI)**
+   - Displays controls and status (Start/Stop, battery, progress)
+   - Sends user commands
+
+2. **Node.js (Control Service)**
+   - Receives commands from Electron
+   - Maps a destination (e.g., "Table 12") to a target point (x, y, yaw)
+   - Sends the target to the robot system
+   - Pushes robot status back to Electron
+
+3. **ROS2 (Robot System)**
+   - Navigation + obstacle avoidance
+   - Motor/sensor drivers
+
+#### Communication
+- **Electron ↔ Node.js:** WebSocket (JSON)
+- **Node.js ↔ ROS2:** send target + receive status
+
+#### One-line summary
+**Electron is the UI, Node.js is the bridge, ROS2 drives the robot.**
+
+---
+
+
+
+
+
+
 ### Yara
 
 **Tech**
