@@ -90,7 +90,7 @@
 
 2. **Node.js (Control Service)**
    - Receives commands from Electron
-   - Maps a destination (e.g., "Table 12") to a target point (x, y, yaw)
+   - Maps a destination (e.g., "Table 12") to a target point (x, y, yaw) **rclnodejs**
    - Sends the target to the robot system
    - Pushes robot status back to Electron
 
