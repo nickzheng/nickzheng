@@ -81,7 +81,7 @@
 
 ---
 
-### Simple Delivery Robot Architecture (Electron + Node.js) (2021)
+### MVP Delivery Robot (Electron + Node.js) (2021)
 
 🤖
 1. **Electron (Touchscreen UI)**
