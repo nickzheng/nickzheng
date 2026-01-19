@@ -92,13 +92,13 @@
 
 ### EY (Ernst & Young)
 
-1) **React Hooks Enablement & Frontend Engineering Practices**
+1. **React Hooks Enablement & Frontend Engineering Practices**
 - openapi-generator-cli to automatically generate TypeScript Axios API clients and type definitions from OpenAPI
 - Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
 - Extracted shared logic into **custom hooks** for reusability and readability
 - Reduced scattered `useEffect` usage by introducing clearer abstractions and predictable data flow
 
-1) **EY Blockchain China Hosting and Compliance**
+2. **EY Blockchain China Hosting and Compliance**
 - Azure (Azure CN) China hosting
 - Introduced Helm to template and standardize everything, and moved region/customer differences into values files.
 
@@ -126,12 +126,12 @@
 - Replaced **Auth0** with **Authing** for authentication and user management
 - **Lokalise** with Localization via **git flow** 
 
-3) **Express → NestJS Migration**
+3.  **Express → NestJS Migration**
 - Led migration from Express to NestJS to improve architecture consistency and scalability
 - Standardized **authentication**, **validation**, **logging**, and **error handling**
 - Improved maintainability and service-level consistency across teams
 
-4) **Blockchain On-chain Public Service (Shared Infrastructure)**
+4. **Blockchain On-chain Public Service (Shared Infrastructure)**
 - Built a reusable on-chain public service layer to unify blockchain write/read operations
 - Consolidated repeated **ethers.js** integration logic across projects into a standardized shared service
 
@@ -139,23 +139,23 @@
 
 ## 🌱 Early Career
 
-1) university Self-taught
+1. university Self-taught
 
 - **Ruby on Rails**: Controller, Active Record, View
 - **PHP**: Yii Framework MVC
 
-2) HSBC: Adobe Flex/ActionScript → HTML5 Angular 1.x
+2. HSBC: Adobe Flex/ActionScript → HTML5 Angular 1.x
 
 - **Tooling**: RequireJS, Grunt
 - **Testing**: Karma, Jasmine, E2E
 - **CI/Agile**: TeamCity, Jira Agile
 
-3) Self-taught React + Frontend Tooling (2015)
+3. Self-taught React + Frontend Tooling (2015)
 
 - **React fundamentals**: JSX, component model, createClass / early ES6 classes
 - **App architecture**: Flux, reflux, one directional data flow, functional programming, Side effects separation
 - **Tooling**: Webpack, Webpack loaders(Sass Less CSS Style), Babel (ES6+ → ES5)
 
-4) Self-taught Nodejs
+4. Self-taught Nodejs
 
 - Express, Koa ,Eggjs, K8s, Docker
