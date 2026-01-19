@@ -64,7 +64,7 @@
 
 ### ACE Studio AI (ongoing)
 
-- 🌐 **Web:** [web-dev.acemusic.ai/trending](https://web-dev.acemusic.ai)
+- 🌐 **Web:** [web-dev.acemusic.ai](https://web-dev.acemusic.ai)
 
 ---
 
