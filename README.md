@@ -85,6 +85,7 @@
 
 **Tech & Highlights**
 - Taro (React) for WeChat Mini Program
+- `openapi-generator-cli` to auto generate TypeScript Axios clients + type definitions from OpenAPI
 - Standardized UI component patterns and delivery workflow
 - Alibaba Cloud ACK (Kubernetes)
 - Kubernetes-based deployment & environment automation using Review Apps
@@ -96,7 +97,7 @@
 ### 🏢 EY (Ernst & Young)
 
 #### React Hooks Enablement & Frontend Engineering Practices
-- Used `openapi-generator-cli` to generate TypeScript Axios clients + type definitions from OpenAPI
+- `openapi-generator-cli` to auto generate TypeScript Axios clients + type definitions from OpenAPI
 - Promoted React Hooks best practices across teams
 - Extracted shared logic into reusable **custom hooks**
 - Reduced scattered `useEffect` usage with clearer abstractions and predictable data flow
