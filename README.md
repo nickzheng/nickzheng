@@ -101,8 +101,9 @@
 - Azure China (Azure CN)
 - I introduced Helm to template and standardize everything, and moved region/customer differences into values files.
 
+```chat
 ┌──────────────────────────┐
-│   Environment China/US │  ← values-cn.yaml / values-us.yaml
+│   Environment US/China │  ← values-cn.yaml / values-us.yaml
 └────────────▲─────────────┘
              │
 ┌────────────┴─────────────┐
@@ -116,6 +117,8 @@
 ┌────────────┴─────────────┐
 │       Kubernetes         │
 └──────────────────────────┘
+
+```
 
 
 - Designed CI/CD workflow for China region constraints and compliance requirements
