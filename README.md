@@ -99,6 +99,7 @@
 
 1) **EY Blockchain China Hosting and Compliance**
 - Azure China (Azure CN)
+- Kubernetes (deployment/service/ingress ) -> Helm  
 - Designed CI/CD workflow for China region constraints and compliance requirements
 - Replaced **Auth0** with **Authing** for authentication and user management
 - **Lokalise** with Localization via **git flow** 
