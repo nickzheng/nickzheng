@@ -99,7 +99,25 @@
 
 1) **EY Blockchain China Hosting and Compliance**
 - Azure China (Azure CN)
-- Kubernetes (deployment/service/ingress ) -> Helm  
+- I introduced Helm to template and standardize everything, and moved region/customer differences into values files.
+
+┌──────────────────────────┐
+│   Environment China/US │  ← values-cn.yaml / values-us.yaml
+└────────────▲─────────────┘
+             │
+┌────────────┴─────────────┐
+│     Helm Values Layer    │  ← image, resources, ingress, replicas
+└────────────▲─────────────┘
+             │
+┌────────────┴─────────────┐
+│     Helm Templates       │  ← deployment / service / ingress
+└────────────▲─────────────┘
+             │
+┌────────────┴─────────────┐
+│       Kubernetes         │
+└──────────────────────────┘
+
+
 - Designed CI/CD workflow for China region constraints and compliance requirements
 - Replaced **Auth0** with **Authing** for authentication and user management
 - **Lokalise** with Localization via **git flow** 
