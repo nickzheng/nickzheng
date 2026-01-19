@@ -84,22 +84,20 @@
 ### 🧩 Yara
 
 **Tech & Highlights**
-- Taro (React) for WeChat Mini Program
-- `openapi-generator-cli` to auto generate TypeScript Axios clients + type definitions from OpenAPI
-- Standardized UI component patterns and delivery workflow
-- Alibaba Cloud ACK (Kubernetes)
-- Kubernetes-based deployment & environment automation using Review Apps
-- GitLab Review Apps
-- NestJS
+- Built WeChat Mini Program using **Taro (React)** with standardized UI component patterns and delivery workflow
+- Backend services built with **NestJS** **TypeORM**
+- Established an **OpenAPI-based client generation** workflow to produce TypeScript Axios clients + typings
+- Operated on **Alibaba Cloud ACK (Kubernetes)** and implemented Kubernetes-based deployment automation
+- Enabled faster iteration with **Review Apps** (GitLab Review Apps) across environments
 
 ---
 
 ### 🏢 EY (Ernst & Young)
 
 #### React Hooks Enablement & Frontend Engineering Practices
-- `openapi-generator-cli` to auto generate TypeScript Axios clients + type definitions from OpenAPI
-- Promoted React Hooks best practices across teams
-- Extracted shared logic into reusable **custom hooks**
+- Drove team-wide React Hooks best practices: patterns, review checklist, and shared examples
+- Extracted shared logic into reusable **custom hooks** to reduce duplication and improve readability
+- EImproved data-flow clarity by reducing ad-hoc `useEffect` usage and enforcing predictable abstractions
 - Reduced scattered `useEffect` usage with clearer abstractions and predictable data flow
 
 #### EY Blockchain China Hosting & Compliance
@@ -131,13 +129,13 @@
 - Localization implemented via **Git flow**
 
 #### Express → NestJS Migration
-- Led migration from Express to NestJS to improve architectural consistency and scalability
-- Standardized **authentication**, **validation**, **logging**, and **error handling**
-- Improved maintainability and service-level consistency across teams
+- Led services migration from **pure Express**  to **NestJS**
+- Standardized **authentication**, **validation**, **logging**, and **error handling** in **NextJS**
+- Set up **OpenAPI-driven TypeScript client generation** to align FE/BE contracts
 
 #### Blockchain On-chain Public Service
 - Built a reusable on-chain public service layer to unify blockchain write/read operations
-- Consolidated repeated **ethers.js** integration logic into a standardized shared service
+- Consolidated repeated **ethers.js** integration logic into a standardized shared micro-service
 
 ---
 
