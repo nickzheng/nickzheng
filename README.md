@@ -86,20 +86,21 @@
 - Alibaba Cloud ACK (Kubernetes)
 - Kubernetes-based deployment & environment automation using Review Apps
 - GitLab Review Apps  
-- NestJS  
+- NestJS
 
 ---
 
 ### EY (Ernst & Young)
 
 1) **React Hooks Enablement & Frontend Engineering Practices**
+- openapi-generator-cli to automatically generate TypeScript Axios API clients and type definitions from OpenAPI
 - Promoted React Hooks best practices across the team (patterns, code review guidance, and shared examples)
 - Extracted shared logic into **custom hooks** for reusability and readability
 - Reduced scattered `useEffect` usage by introducing clearer abstractions and predictable data flow
 
 1) **EY Blockchain China Hosting and Compliance**
-- Azure China (Azure CN)
-- I introduced Helm to template and standardize everything, and moved region/customer differences into values files.
+- Azure (Azure CN) China hosting
+- Introduced Helm to template and standardize everything, and moved region/customer differences into values files.
 
 ```chat
 ┌──────────────────────────┐
@@ -118,10 +119,10 @@
 │       Kubernetes         │
 └──────────────────────────┘
 
-```
+``
 
-
-- Designed CI/CD workflow for China region constraints and compliance requirements
+- Designed CI/CD workflow for China
+- region constraints and compliance requirements
 - Replaced **Auth0** with **Authing** for authentication and user management
 - **Lokalise** with Localization via **git flow** 
 
