@@ -9,7 +9,7 @@
 ## 🔥 Summary
 
 - 12+ years of hands-on experience in **Full-Stack JavaScript** development and **DevOps / Platform Engineering**.
-- Strong expertise in modern JavaScript stack: **React(Next.js) / Node.js (NestJS)**, building **Web Apps**, **WeChat Mini Programs**, and production services.
+- Strong expertise in modern JavaScript stack: **React/Nextjs / Node.js (NestJS)**, building **Web Apps**, **WeChat Mini Programs**, and production services.
 - Focus on **system reliability** and delivery efficiency: **CI/CD**, Git workflow, Kubernetes orchestration, and automated quality gates.
 - Solid testing practices across frontend & backend: **unit / integration / e2e** to ensure code quality and stable releases.
 - 6 years of people management experience (**8–15 engineers**): hiring, team structuring, task allocation, mentoring, and performance coaching.
@@ -27,7 +27,7 @@
 
 ### 🖥️ Frontend React
 
-- **React** (since 2015): Class Components → Hooks / Functional Components  
+- **React** (since 2015): createClass -> ES6 Class Components/ pure Components →   Functional Components  / Hooks
 - **State management**: Redux (Saga/Thunk) → Context Provider + custome hooks → **Redux Toolkit / DVA / Zustand / React Query / ahooks**
 - **Next.js**
 - **UI & forms:** **Ant Design / Ant Design Pro / React Hook Form**
@@ -81,14 +81,12 @@
 ### Yara
 
 **Tech**
-- Taro (React) for Mini Program  
-- Alibaba Cloud ACK (Kubernetes)  
+- Taro (React) for Mini Program
+- Standardized UI component patterns and delivery workflow
+- Alibaba Cloud ACK (Kubernetes)
+- Kubernetes-based deployment & environment automation using Review Apps
 - GitLab Review Apps  
 - NestJS  
-
-**What I worked on**
-- Standardized UI component patterns and delivery workflow
-- Kubernetes-based deployment & environment automation using Review Apps
 
 ---
 
@@ -102,8 +100,8 @@
 1) **EY Blockchain China Hosting and Compliance**
 - Azure China (Azure CN)
 - Designed CI/CD workflow for China region constraints and compliance requirements
-- Replaced Auth0 with **Authing** for authentication and user management
-- Localization with GitHub integration via **Lokalise**
+- Replaced **Auth0** with **Authing** for authentication and user management
+- **Lokalise** with Localization via **git flow** 
 
 3) **Express → NestJS Migration**
 - Led migration from Express to NestJS to improve architecture consistency and scalability
@@ -112,7 +110,7 @@
 
 4) **Blockchain On-chain Public Service (Shared Infrastructure)**
 - Built a reusable on-chain public service layer to unify blockchain write/read operations
-- Consolidated repeated **ethers.js** integration logic across projects into a standardized SDK/service
+- Consolidated repeated **ethers.js** integration logic across projects into a standardized shared service
 
 ---
 
