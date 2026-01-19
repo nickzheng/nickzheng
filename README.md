@@ -38,7 +38,7 @@
 
 - **Frameworks**: Express → Koa → Ali Egg.js → **NestJS** (AOP & DI)
 - **API**: **RESTful**, **Swagger / OpenAPI**
-- **ORM**: **TypeORM**, Drizzle (learning)
+- **ORM**: **TypeORM**
 - **Storage**: PostgreSQL / Redis
 
 ### ☁️ DevOps / Cloud / Platform
