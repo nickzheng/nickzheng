@@ -48,7 +48,7 @@ Write React to build cross-platform apps
 
 - **Home Nail Services** booking + payment flow inside WeChat (choose nail artist → choose service/time → address → pay)
 - **Restaurant Ordering/ Food & Beverage Management Mini Program** → Similar to **2DFire (二维火)** (QR-code-based table ordering, menu selection, in-store payment)
-- **Woof** → Like **ABC-MART/StockX / GOAT lottery releases** , **Sneaker Verification**  **Sneaker Stock Market** , social sharing deals like **group-buy / price-cut campaigns**
+- **Woof** → Like **ABC-MART/StockX / GOAT lottery releases** , **Sneaker Verification**  **Sneaker Stock Market** , **Social Sharing deals** (group-buy / price-cut campaigns)
 - **Adidas Mini Program** → Official **brand-owned Mini Program** on WeChat
 - **WNB E-business (Agri Retail)** Location-based flow to find the **nearest agricultural supply store** (e.g., fertilizer purchase)
 - **WWN Community (Farming Community)** A community for farmers to **share planting techniques** and practical knowledge
