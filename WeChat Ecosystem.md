@@ -1,6 +1,6 @@
 # 👨‍💻 Nick (Yiming) Zheng
 
-**Tech Leader · Full-Stack Developer · WeChat Ecosystem Developer**
+**Tech Leader · Full-Stack Developer · WeChat Ecosystem Developer · China/Global Cloud Infra DevOps**
 
 - 📧 **Email:** nickzhengyiming@gmail.com
 - 📱 **Phone:** +86 189 189 60666
