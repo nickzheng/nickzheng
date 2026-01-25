@@ -1,4 +1,9 @@
-# Experience About China Internet Ecosystem 
+# 👨‍💻 Nick (Yiming) Zheng
+
+**Tech Leader · Full-Stack Developer · WeChat Ecosystem Developer **
+
+- 📧 **Email:** nickzhengyiming@gmail.com
+- 📱 **Phone:** +86 189 189 60666
 
 I have 12+ years of professional experience. After completing my Master’s degree in the UK in 2013, I returned to China and started my career as a full-stack engineer.
 
