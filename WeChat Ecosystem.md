@@ -23,7 +23,7 @@ Most of my experience is in consumer-facing (To-C) products. I’ve worked in bo
 - **WeChat Open Platform** for connecting multiple Mini Programs and H5 services (unionID, OAuth)
 - **WeChat Pay** across Mini Program, HTML5 Web Apps and Website
 - **WeChat Sharing** - message or QR Code
-- WeChat **notification** , WeChat **LBS** , **Loyalty** , **Membership** , **Coupon** , **Customer Service chatbox**
+- WeChat **notification** , **LBS** , **Loyalty** , **Membership** , **Coupon** , **Customer Service chatbox**
 - **Alipay** integration and Ping++ (China payment aggregation platform like **Stripe**)
 - **Cloud** experience with **Alibaba** Cloud and **Tencent** Cloud (including VOD)
 
