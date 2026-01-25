@@ -26,14 +26,14 @@ Most of my experience is in consumer-facing (To-C) products. I’ve worked in bo
 
 ## Cross-platform Tech for WeChat Ecosystem
 
-one codebase (React for frontend development)
+Write React to build cross-platform apps
 
-- WeChat Mini Program,
-- ByteDance Mini Program
-- Alipay Mini Program,
-- Native IOS
-- Native Android App
-- Web
+- **WeChat** Mini Program
+- **Alipay** Mini Program
+- **ByteDance** Mini Program
+- Native **IOS**
+- Native **Android** 
+- **Web**
 
 
 ## Global Project -> Local Hosting & Compliance
