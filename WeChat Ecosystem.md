@@ -1,4 +1,4 @@
-# Fullstack Engineer/Leader in China Software Ecosystem development 
+# Experience About China Internet Ecosystem 
 
 I have 12+ years of professional experience. After completing my Master’s degree in the UK in 2013, I returned to China and started my career as a full-stack engineer.
 
