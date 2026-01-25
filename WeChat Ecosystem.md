@@ -24,31 +24,33 @@ Most of my experience is in consumer-facing (To-C) products. I’ve worked in bo
 - Cloud experience with Alibaba Cloud and Tencent Cloud (VOD)
 
 
-## Cross-platform Tech for WeChat Ecosystem
-
-Write React to build cross-platform apps
-
-- **WeChat** Mini Program
-- **Alipay** Mini Program
-- **ByteDance** Mini Program
-- Native **IOS**
-- Native **Android** 
-- **Web**
-
-
-## Global Project -> Local Hosting & Compliance
+## Global Project to China Local Hosting & Compliance
 
 - Led global EY Blockchain OpsChain and Traceability hosting in China and support the product could run reliably in China
 - Solution to meet China-specific compliance requirements
 - Acted as a bridge between global teams and local needs (timeline, expectations, and delivery)
 
 
+## Cross-platform Tech for WeChat Ecosystem
+
+Global teams used React, while WeChat Mini Programs required a different ecosystem.  
+I introduced a cross-platform approach to reuse global React experience for China Mini Programs, improving efficiency and alignment between global and local teams.
+
+### Write React to build cross-platform apps
+
+- **WeChat** Mini Program
+- **Alipay** Mini Program
+- **ByteDance** Mini Program
+- Native **IOS**
+- Native **Android**
+- **Web**
+
 
 ## Highlight WeChat-related Apps I Hacked (2016-2026)
 
 - **Home Nail Services** booking + payment flow inside WeChat (choose nail artist → choose service/time → address → pay)
 - **Restaurant Ordering/ Food & Beverage Management Mini Program** → Similar to **2DFire (二维火)** (QR-code-based table ordering, menu selection, in-store payment)
-- **Woof** → Like **ABC-MART/StockX / GOAT lottery releases** , **Sneaker Verification**  **Sneaker Stock Market** , **Social Sharing deals** (group-buy / price-cut campaigns)
+- **Woof** → Like **ABC-MART/StockX / GOAT lottery releases** , **Sneaker Verification**,  **Sneaker Stock Market** , **Social Sharing deals** (group-buy / price-cut campaigns)
 - **Adidas Mini Program** → Official **brand-owned Mini Program** on WeChat
 - **WNB E-business (Agri Retail)** Location-based flow to find the **nearest agricultural supply store** (e.g., fertilizer purchase)
 - **WWN Community (Farming Community)** A community for farmers to **share planting techniques** and practical knowledge
