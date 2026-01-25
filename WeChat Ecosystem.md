@@ -7,7 +7,7 @@
 
 I have 12+ years of professional experience. After completing my Master’s degree in the UK in 2013, I returned to China and started my career as a full-stack engineer.
 
-Over the years, around 70% of my work has focused on the WeChat ecosystem — including WeChat HTML5 Web Apps and WeChat Mini Programs. My involvement goes beyond development and includes system design, engineering practices, and product flow design for real-world business scenarios such as login, payments, social sharing, and QR-code-based offline entry points.
+Over the years, around 70% of my work has focused on the WeChat ecosystem — including WeChat HTML5 Web Apps and WeChat Mini Programs. My involvement goes beyond development and includes system design, engineering practices, and product flow design for real-world business scenarios.
 
 I started working on WeChat-related projects in 2015 with WeChat HTML5 Web Apps, and began building WeChat Mini Programs in 2017 when the platform officially launched.
 
