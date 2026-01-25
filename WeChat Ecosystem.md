@@ -1,73 +1,75 @@
-# WeChat Ecosystem
-
-
-
-# 微信生态里你通常会做的“几大载体”
-
- - 小程序（Mini Program）：交易闭环与高频服务承载（点餐/订位/会员/券/支付/通知） 
- - 公众号（Official Account）：内容触达、服务入口、H5 承载、客服与消息触达（服务号更常见） 
- - 开放平台（Open Platform）：多应用打通（UnionID）、网站扫码登录等 
- - 微信支付（WeChat Pay）：小程序/公众号/H5/APP 支付能力、退款、对账、风控
+# About me
 
 
 
 
 
-## 登录与用户体系
-
-- 小程序登录（wx.login + code2session）
-- phone
-- UnionID 打通 如果公司同时有小程序 + 公众号 + App/网站登录：用 UnionID 做跨端统一用户（更适合会员体系/多端权益一致）
-- 网站/管理后台“微信扫码登录”
-
-
-## 支付
-
-- 小程序支付（JSAPI / 小程序内支付的典型路径）
-- H5 支付（JSAPI / H5 内支付的典型路径）
-- 下单→支付→回调→对账→退款
-
-
-## 分享与裂变（“分享”别只说按钮，要说链路与归因）
-
-### 小程序分享
-
-- 分享给好友/群、生成分享卡片 
-- 带参数：用 scene / query 参数做渠道归因（来源、活动、门店、桌台等） 
-- 二次打开：解析参数 → 还原业务上下文（例如进入某家店/某个订位页）
-
-### 二维码能力
-
-- 小程序码 / 场景码：线下门店非常常用（桌贴码、海报码、门店码） 
-- 结合门店/桌号/活动做精细化运营与统计
-
-
-## 消息与触达（餐饮/订位场景非常关键）订阅消息（小程序）
-
-
-- 用户授权后才能发（避免骚扰） 
-- 常见模板：订位成功、改期、到店提醒、排队叫号、支付成功、退款结果等
-
-
-## 与餐饮业务强相关的“微信内能力”（TableCheck 场景很对口）
-
-- 定位/LBS：就近门店、城市切换 
-- 会员与权益：积分、储值、等级、优惠券（配合支付与核销）
-- 核销/验券：到店核销逻辑、离线容错 
-- 客服能力：小程序客服/公众号客服（用户改期、取消、投诉处理）
 
 
 
-8 wechatt mini app release
+I have 12+ years of professional experience. After completing my Master’s degree in the UK in 2013, I returned to China and started my career as a full-stack engineer.
 
-- WNB e-business
-- WWN 社区
-- Woof go 社区
-- Woof 抢购
-- 萌推 e-business
-- Adidas app
-- 上门美甲
-- 代驾
+Over the years, around 70% of my work has been related to the WeChat ecosystem — including WeChat H5 (WebView) and WeChat Mini Programs — and I’ve been involved not only in development, but also in system design, engineering practices, and product flow design for real business scenarios such as login, payments, sharing, and QR-code-based offline entry points.
+
+I started working on WeChat-related projects in 2014, and began building Mini Programs in 2016 when the platform first launched. Most of my experience is in consumer-facing (To-C) products. I’ve also worked in both local Chinese companies and multinational environments, so I’m comfortable collaborating across cultures and communicating China/WeChat-specific context clearly.
 
 
 
+
+
+
+
+
+
+
+
+## China WeChat Ecosystem Tech
+
+- WeChat Mini Programs and WeChat H5 (WebView) 
+- Official Accounts as service entry points and content-driven traffic
+- WeChat Open Platform for connecting multiple Mini Programs and H5 services (unionID, OAuth)
+- Website and admin login via WeChat QR code (OAuth)
+- WeChat Pay across Mini Program, H5, and website
+- QR code , and WeChat share
+- 消息推送 
+- 微信内能力  LBS  会员与权益 优惠券 客服能力
+- Alipay integration
+- Cloud experience with Alibaba Cloud and Tencent Cloud (VOD)
+
+
+
+
+
+
+Taro cross-platform framework With one codebase, the same application can run as a WeChat Mini Program, an Alipay Mini Program, and also as a web (H5) application.
+
+
+
+
+
+
+
+- **Home Nail Services** Lightweight booking + payment flow inside WeChat (open link → choose service/time → address → pay)
+- **MengTui E-commerce** → Similar to a **Rakuten-style marketplace**
+- **Woof Limited Drops** → Like **ABC-MART lottery releases**
+- **Woof Sneaker Verification** → Similar to **StockX / GOAT authentication**
+- **Adidas Mini Program** → Official **brand-owned Mini Program** on WeChat
+- **WNB E-business (Agri Retail)** Location-based flow to find the **nearest agricultural supply store** (e.g., fertilizer purchase)
+- **WWN Community (Farming Community)** A community for farmers to **share planting techniques** and practical knowledge
+
+
+
+    
+
+
+
+Familiarity with Chinese F&B industry and restaurant operations
+
+
+需要人主动 ， 快速解决问题
+
+关键协作准则：将 “清晰沟通” 和 “详尽文档” 置于核心地位，甚至用 “融入血液” 强调其重要性，本质是通过标准化信息传递，弥补远程办公中面对面交流的不足，确保协作效率。
+团队能力与期待：要求团队主动从复杂信息中提炼有效 “信号”（即关键信息），以实现持续学习和调整；同时强调成员需主动跟进问题、同步进展，保障全员信息同步，避免因远程导致的信息差。
+
+I’m not only familiar with WeChat Mini Programs technically, 
+but I’ve built end-to-end WeChat ecosystem solutions for real business scenarios—especially restaurant and offline-to-online flows like login, booking, payment, QR codes, notifications, and growth. I understand both how users behave inside WeChat and how to design reliable systems behind it.
