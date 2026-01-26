@@ -15,22 +15,20 @@ Most of my experience is in consumer-facing (To-C) products. I’ve worked in bo
 
 ---
 
-
 ## China WeChat Ecosystem Experience
 
 - **WeChat Mini Programs**, **WeChat HTML5 Web Apps**, and **Websites**
 - **Wechat Official Accounts** as service entry points and content-driven traffic
 - **WeChat Open Platform** for connecting multiple Mini Programs and H5 services (unionID, OAuth)
-- **WeChat Pay** across Mini Program, HTML5 Web Apps and Website
-- **WeChat Sharing** - message or QR Code
-- WeChat **notification** , **LBS** , **Loyalty** , **Membership** , **Coupon** , **Customer Service chatbox**
+- **WeChat** Pay , **Sharing** (message or QR Code) , **notification** , **LBS** , **Loyalty** , **Membership** , **Coupon** , **Customer Service chatbox**
 - **Alipay** integration and Ping++ (China payment aggregation platform like **Stripe**)
 - **Cloud** experience with **Alibaba** Cloud and **Tencent** Cloud (including VOD)
-
+- Delivering **Global Platform** → **China Local Hosting & Compliance (EY)**
+- **Cross-Platform Tech for the China Ecosystem**
 ---
 
 
-## Global Projects → China Local Hosting & Compliance (EY)
+## Global Platform → China Local Hosting & Compliance (EY)
 
 - Led the localization and China hosting of EY global Blockchain products (OpsChain and Traceability)
 - Ensured solutions met China-specific compliance and operational requirements
