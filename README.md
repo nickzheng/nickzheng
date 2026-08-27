@@ -63,9 +63,9 @@
 
 ## 💼 Experience & Selected Projects
 
-### 🎵 ACE Studio AI (ongoing)
+### 🎵 ACE Music AI
 
-- 🌐 **Web:** https://web-dev.acemusic.ai
+- 🌐 **Web:** https://acemusic.ai/
 
 ---
 
