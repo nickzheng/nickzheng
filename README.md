@@ -30,8 +30,8 @@
 - **Wallet Platform**: replace browser extension metamask
 - **EY Transition Platform**: Polygon, ethersjs, Kafaka, PostgresSQL
 - **EY Transition Service API**: Swagger(OpenAPI Doc)
-- notarization
 - **EY Tokenization Platform**: ERC 20 (fungible tokens) and ERC 721 token(non-fungible tokens)
+- **EY Notarization Service**
 - **EY OpsChain Traceability Platform**
 
 
