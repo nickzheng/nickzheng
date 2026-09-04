@@ -100,7 +100,7 @@ Business Platform → Notarization → Tokenization  → Transition Service API 
 ```
 
 
-- **Wallet Platform**: An internal wallet system replacing MetaMask browser extension. It provides account management, wallet connection and transaction signing for all business modules.
+- **Wallet Management**: An internal wallet system replacing MetaMask browser extension. It provides account management, wallet connection and transaction signing for all business modules.
 - **EY Transition Platform**: The bottom-layer blockchain infrastructure. It uses Polygon network, ethers.js for contract interaction, Kafka for async event processing and PostgreSQL for off-chain data storage. It supports all on-chain behaviors of the whole system.
 - **EY Transition Service API**: Unified public API gateway for the Transition Platform, fully documented with Swagger/OpenAPI. All upper-layer businesses call on-chain capabilities through this unified interface.
 - **EY Tokenization Platform**: Standard token service platform. It supports ERC-20 fungible token and ERC-721 non-fungible token creation, transfer and metadata management. It provides dedicated NFT token capabilities for notarization business.
