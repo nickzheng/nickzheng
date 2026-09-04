@@ -92,7 +92,7 @@
 
 ---
 
-### 🏢 EY (Ernst & Young)
+### 🏢 EY (Ernst & Young) https://www.ey.com/en_uk/services/blockchain/platforms
 
 
 ```chat
