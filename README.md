@@ -26,6 +26,12 @@
 
 ## 🧰 Tech Stack
 
+### Blockchain
+- **onchian service**
+- **tokenization service**
+- **EY OpsChain Traceability**
+
+
 ### 🖥️ Frontend (React Ecosystem)
 
 - **React** (since 2015): `createClass` → ES6 Class Components / Pure Components → Functional Components / Hooks  
