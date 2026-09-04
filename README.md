@@ -149,10 +149,6 @@ Business Platform → Notarization → Tokenization  → Transition Service API 
 - Standardized **authentication**, **validation**, **logging**, and **error handling** in **NextJS**
 - Set up **OpenAPI-driven TypeScript client generation** to align FE/BE contracts
 
-#### Blockchain On-chain Public Service
-- Built a reusable on-chain public service layer to unify blockchain write/read operations
-- Consolidated repeated **ethers.js** integration logic into a standardized shared micro-service
-
 ---
 
 ## 🌱 Early Career
