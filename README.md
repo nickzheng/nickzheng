@@ -102,9 +102,9 @@
 - **EY Notarization Service**: Core blockchain notarization business service. It adopts ERC-721 NFT-based notarization mode, every notarization record corresponds to a unique NFT token. It depends on Tokenization Platform to finish on-chain notarization.
 - **EY OpsChain Traceability Platform**: Multi-dimensional data traceability service. It collects and sorts various metadata including temperature, longitude, latitude and path data, and completes standardized on-chain traceability records.
 
-```
-Business Platform → Tokenization Platform (if needed) → Transition Service API → Transition Platform → Polygon Chain
-```
+`
+Business Platform → Notarization → Tokenization  → Transition Service API → Transition Platform → Polygon Chain
+`
 
 
 #### React Hooks Enablement & Frontend Engineering Practices
