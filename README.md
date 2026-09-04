@@ -27,10 +27,11 @@
 ## 🧰 Tech Stack
 
 ### Blockchain
-- **Onchian Transition Service**: Polygon, ethersjs, Kafaka, PostgresSQL
-- **Onchian Transition Service API**: Swagger(OpenAPI Doc)
-- **Tokenization service**
-- **EY OpsChain Traceability**
+- **Wallet Platform**: replace browser extension metamask
+- **EY Transition Platform**: Polygon, ethersjs, Kafaka, PostgresSQL
+- **EY Transition Service API**: Swagger(OpenAPI Doc)
+- **EY Tokenization Platform**: ERC 20 (fungible tokens) and ERC 721 token(non-fungible tokens)
+- **EY OpsChain Traceability Platform**
 
 
 ### 🖥️ Frontend (React Ecosystem)
