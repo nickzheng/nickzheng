@@ -27,8 +27,9 @@
 ## 🧰 Tech Stack
 
 ### Blockchain
-- **onchian service**
-- **tokenization service**
+- **Onchian Transition Service**: Polygon, ethersjs, Kafaka, PostgresSQL
+- **Onchian Transition Service API**: Swagger(OpenAPI Doc)
+- **Tokenization service**
 - **EY OpsChain Traceability**
 
 
